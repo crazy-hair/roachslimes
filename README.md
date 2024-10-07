@@ -20,13 +20,13 @@ This board is designed to be compact, which means I had to make some unconventio
 
 ## Images
 
-![pcb_design](pcbnew_2024-10-07_12-25-15.png)![pcb_design](pcbnew_2024-10-07_12-25-18.png)
+![pcb_design](Images/pcb_design-10-07_12-25-15.png)![pcb_design](Images/pcb_design-10-07_12-25-18.png)
 
-![pcb_design](pcbnew_2024-10-07_12-25-07.png)![pcb_design](pcbnew_2024-10-07_12-25-12.png)
+![pcb_design](Images/pcb_design-10-07_12-25-07.png)![pcb_design](Images/pcb_design-10-07_12-25-12.png)
 
-![pcb_design](pcbnew_2024-10-07_12-21-47.png)![pcb_design](pcbnew_2024-10-07_12-21-49.png)
+![pcb_design](Images/pcb_design-10-07_12-21-47.png)![pcb_design](Images/pcb_design-10-07_12-21-49.png)
 
-![pcb_design](pcbnew_2024-10-07_12-21-37.png)![pcb_design](pcbnew_2024-10-07_12-21-40.png)
+![pcb_design](Images/pcb_design-10-07_12-21-37.png)![pcb_design](Images/pcb_design-10-07_12-21-40.png)
 
 ## Price Breakdown
 
