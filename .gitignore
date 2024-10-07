@@ -4,3 +4,4 @@ fp-info-cache
 *.lck
 jlcpcb/
 _autosave-*
+~$*.xlsx

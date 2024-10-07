@@ -30,6 +30,8 @@ This board is designed to be compact, which means I had to make some unconventio
 
 ## Price Breakdown
 
+A fully parametric breakdown that allows for adjusting tax, quantity, and more can be found [here.](BOM.xlsx)
+
 All prices are in USD. Sales tax is calculated at 8.25%. Note that the LED and associated resistor, as well as the pogo pins are not necessary for core tracker operation, as specified in the comment row. 
 
 | Tracker Components | [D1 Mini](https://www.aliexpress.us/item/32831353752.html) | [BMI160](https://www.aliexpress.us/item/1005007143698152.html) | [TP4056](https://www.aliexpress.us/item/1005006379403615.html) | [GY-271](https://www.aliexpress.us/item/1556804905.html) | [SK12D07VG4](https://www.aliexpress.us/item/3256806149664764.html) | [JST-PH-4P](https://www.aliexpress.us/item/33011797617.html) | [Pogo Female](https://www.aliexpress.us/item/3256804960956555.html) | [B5817WS](https://www.aliexpress.us/item/1005004633629467.html) | [0805 180k](https://www.aliexpress.us/item/1005007032369041.html) | [0806 620r](https://www.aliexpress.us/item/3256806846054289.html) | [0805 LED](https://www.aliexpress.us/item/3256805245629305.html) | [803450](https://www.aliexpress.us/item/1005003621836701.html) | [Wires](https://www.aliexpress.us/item/1005007558078161.html) | Motherboard | Daughterboard | Total |
