@@ -4,7 +4,7 @@ A custom PCB for SlimeVR, with the intention of using the cheapest parts availab
 
 ## Ordering PCBs
 
-The included gerbers in /PCB/Production/ are exported from KiCad using the recommended settings for JLCPCB. I cannot guarantee that they will work at a different fab. JLCPCB is far and away the most cost effective for low volume PCB orders, coming out to $3.52 for 20 boards before tax if you use their economy shipping option(as of 2024).\
+The included gerbers in /PCB/Production/ are exported from KiCad using the recommended settings for JLCPCB. I cannot guarantee that they will work at a different fab. JLCPCB is far and away the most cost effective for low volume PCB orders, coming out to $3.52 for 20 boards before tax if you use their economy shipping option(as of 2024). There are four files, two for each board (one single board, and one panelized). Using the panelized board files is highly recommended, as it allows for More Board Per Board<sup>TM</sup> without additional cost. The default JLCPCB order parameters are good enough for working boards out of the box, but I'd recommend changing the color to yellow [(because it's lemon scented)](https://x.com/MKVRiscy/status/1821870120697987492) and to select "no mark" so you don't have some unique identifier printed on the board somewhere.
 
 ## Assembly
 
