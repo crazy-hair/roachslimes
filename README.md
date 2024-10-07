@@ -30,7 +30,7 @@ This board is designed to be compact, which means I had to make some unconventio
 
 ## Price Breakdown
 
-A fully parametric breakdown that allows for adjusting tax, quantity, and more can be found [here.](BOM.xlsx)
+A fully parametric breakdown that allows for adjusting tax, quantity, and more can be found in BOM.xlsx or [here](https://docs.google.com/spreadsheets/d/1QrLUhdB0H3bMgV2n99equDaVrjREBDEG/edit) (if you want to modify it, you'll have to make a personal copy first).
 
 All prices are in USD. Sales tax is calculated at 8.25%. Note that the LED and associated resistor, as well as the pogo pins are not necessary for core tracker operation, as specified in the comment row. 
 
