@@ -1490,6 +1490,7 @@
 			)
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0.5 2.5)
 			)
@@ -1501,6 +1502,7 @@
 			)
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl"
+			(hide yes)
 			(offset
 				(xyz 22.86 0.5 2.5)
 			)
@@ -1549,7 +1551,7 @@
 		)
 		(model "${KICAD_3RD_PARTY}/Custom.3dshapes/wemos d1 mini V4.STEP"
 			(offset
-				(xyz 11.44 -17.15 10.455)
+				(xyz 11.44 -17.15 7.95)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -2133,7 +2135,7 @@
 		)
 		(model "${KICAD_3RD_PARTY}/Custom.3dshapes/03962A (HW107) Lithium Battery Charging Module.STEP"
 			(offset
-				(xyz 0 -8.75 2.5)
+				(xyz 0 -8.75 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -2143,6 +2145,7 @@
 			)
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
+			(hide yes)
 			(offset
 				(xyz 1.95 -1.74 2.5)
 			)
@@ -2154,6 +2157,7 @@
 			)
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
+			(hide yes)
 			(offset
 				(xyz 24.45 -1.74 2.5)
 			)
@@ -2165,6 +2169,7 @@
 			)
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
+			(hide yes)
 			(offset
 				(xyz 24.45 -5.24 2.5)
 			)
@@ -2176,6 +2181,7 @@
 			)
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
+			(hide yes)
 			(offset
 				(xyz 24.45 -12.24 2.5)
 			)
@@ -2187,6 +2193,7 @@
 			)
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
+			(hide yes)
 			(offset
 				(xyz 24.45 -15.74 2.5)
 			)
@@ -2198,6 +2205,7 @@
 			)
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
+			(hide yes)
 			(offset
 				(xyz 1.95 -15.74 2.5)
 			)
