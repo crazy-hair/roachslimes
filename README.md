@@ -6,6 +6,10 @@ A custom PCB for SlimeVR, with the intention of using the cheapest parts availab
 
 The included gerbers in /PCB/Production/ are exported from KiCad using the recommended settings for JLCPCB. I cannot guarantee that they will work at a different fab. JLCPCB is far and away the most cost effective for low volume PCB orders, coming out to $3.52 for 20 boards before tax if you use their economy shipping option(as of 2024). There are four files, two for each board (one single board, and one panelized). Using the panelized board files is highly recommended, as it allows for More Board Per Board<sup>TM</sup> without additional cost. The default JLCPCB order parameters are good enough for working boards out of the box, but I'd recommend changing the color to yellow [(because it's lemon scented)](https://x.com/MKVRiscy/status/1821870120697987492) and to select "no mark" so you don't have some unique identifier printed on the board somewhere.
 
+## Ordering Parts
+
+Links to all required components can be found in the table at the bottom of this page.
+
 ## Assembly
 
 This board is designed to be compact, which means I had to make some unconventional choices during assembly. The D1 Mini and TP-4060 Boards are mounted to the surface of the PCB, while the BMI and QC are mounted on headers on the opposite side. For assembly, this means you have to solder the headers on first, then use flush cutters or snips to cut the header pins sticking out of the front of the board down to be flush so you can solder on the boards on the onto the front. There's also a pogo pin header for a future modular charging dock which would allow for charging multiple trackers at once, and a slot for an LED and associated resistor which was added for debugging but can be used to identify trackers if you choose to use different colored LEDs per tracker.
