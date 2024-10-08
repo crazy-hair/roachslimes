@@ -34,7 +34,7 @@ Firmware is pretty straightforward, though I did have an issue with the Buttersc
 
 ## Price Breakdown
 
-A fully parametric breakdown that allows for adjusting tax, quantity, and more can be found in BOM.xlsx or [here](https://docs.google.com/spreadsheets/d/1QrLUhdB0H3bMgV2n99equDaVrjREBDEG/edit) (if you want to modify it, you'll have to make a personal copy first).
+A fully parametric breakdown that allows for adjusting tax, quantity, and more can be found in BOM.xlsx or [here](https://docs.google.com/spreadsheets/d/1RTwIJsGUY1e1f047yFT5OwqJSmgT3SN4hO7gHYImR_g/copy) (if you want to modify it, you'll have to make a copy first).
 
 All prices are in USD. Sales tax is calculated at 8.25%. The table includes 2 extra D1s, BMIs, and QMCs to account for possible DOA parts or accidents during assembly. Note that the LED and associated 620Ω resistor, as well as the pogo pins are not necessary for core tracker operation, as specified in the comment row.
 
