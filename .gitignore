@@ -5,3 +5,6 @@ fp-info-cache
 jlcpcb/
 _autosave-*
 ~$*.xlsx
+*.pcb3d
+*.blend*
+*.stl
