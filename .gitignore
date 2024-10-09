@@ -9,3 +9,4 @@ _autosave-*
 *.blend*
 *.stl
 *.round-tracks-config
+render/
