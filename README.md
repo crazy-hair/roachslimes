@@ -8,7 +8,7 @@ This is all WIP. The trackers themselves work, but I still have not designed a c
 
 ## Ordering PCBs
 
-The included gerbers in /PCB/Production/ are exported from KiCad using the recommended settings for JLCPCB. I cannot guarantee that they will work at a different fab. JLCPCB is far and away the most cost effective for low volume PCB orders, coming out to $3.52 for 20 boards before tax if you use their economy shipping option (as of 2024). There are four files, two for each board (one single board, and one panelized). Using the panelized board files is highly recommended, as it allows for More Board Per Board<sup>TM</sup> without additional cost. The default JLCPCB order parameters are good enough for working boards out of the box, but I'd recommend changing the color to yellow [(because it's lemon scented)](https://x.com/MKVRiscy/status/1821870120697987492) and to select "no mark" so you don't have some unique identifier printed on the board somewhere.
+The included gerbers in /PCB/Production/ are exported from KiCad using the recommended settings for [JLCPCB](https://jlcpcb.com). I cannot guarantee that they will work at a different fab. JLCPCB is far and away the most cost effective for low volume PCB orders, coming out to $3.52 for 20 boards before tax if you use their economy shipping option (as of 2024). There are four files, two for each board (one single board, and one panelized). Using the panelized board files is highly recommended, as it allows for More Board Per Board<sup>TM</sup> without additional cost. The default JLCPCB order parameters are good enough for working boards out of the box, but I'd recommend changing the color to yellow [(because it's lemon scented)](https://x.com/MKVRiscy/status/1821870120697987492) and to select "no mark" so you don't have some unique identifier printed on the board somewhere.
 
 ## Ordering Parts
 
@@ -22,7 +22,7 @@ This board is designed to be compact, which means I had to make some unconventio
 
 ## Firmware
 
-Firmware is pretty straightforward, though I did have an issue with the Butterscotch builder/installer - battery sense would always show 100 percent. Therefore, if you want all features to work, I'd recommend building it yourself - PlatformIO Tools for Visual Studio Code make it super easy. If you're compiling yourself, all you have to do is uncomment out ```BATTERY_SHIELD_RESISTANCE 180``` in defines.h, set ```USE_6_AXIS false``` in debug.h, and and change ```BMI160_MAG_TYPE BMI160_MAG_TYPE_HMC``` to ```BMI160_MAG_TYPE BMI160_MAG_TYPE_QMC```in defines_bmi160.h. If that makes no sense to you, I've included compiled firmware in the releases section. 
+Firmware is pretty straightforward, though I did have an issue with the Butterscotch builder/installer - battery sense would always show 100 percent. Therefore, if you want all features to work, I'd recommend building it yourself - PlatformIO Tools for Visual Studio Code make it super easy. If you're compiling yourself, all you have to do is uncomment out ```BATTERY_SHIELD_RESISTANCE 180``` in ```defines.h```, set ```USE_6_AXIS false``` in ```debug.h```, and and change ```BMI160_MAG_TYPE BMI160_MAG_TYPE_HMC``` to ```BMI160_MAG_TYPE BMI160_MAG_TYPE_QMC```in ```defines_bmi160.h```. If that makes no sense to you, I've included compiled firmware in the releases section. 
 
 ## Price Breakdown
 
