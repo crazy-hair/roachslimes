@@ -58,3 +58,14 @@ All prices are in USD. Sales tax is calculated at 8.25%. The table includes 2 ex
 ![pcb_design](Images/pcbnew_2024-10-07_12-21-47.png)![pcb_design](Images/pcbnew_2024-10-07_12-21-49.png)
 
 ![pcb_design](Images/pcbnew_2024-10-07_12-21-37.png)![pcb_design](Images/pcbnew_2024-10-07_12-21-40.png)
+
+## Credits
+
+List of models used in the animation:
+
+| Model | Credit |
+|--|--:|
+| Wemos D1 Mini v4 | [FBMinis](https://grabcad.com/library/wemos-esp8266-lolin-d1-mini-v4-1) |
+| TP-4056 | [Babu George](https://grabcad.com/library/03962a-hw107-lithium-battery-charging-module-1) |
+| BMI160 | [Kouno](https://store.kouno.xyz/products/bmi270-breakout-board) |
+| GY-271 | [Benas Griauzde](https://grabcad.com/library/gy-271-hmc5883l-triple-3-axis-digital-compass-magnetometer-sensor-module-1) |
