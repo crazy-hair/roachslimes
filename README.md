@@ -49,11 +49,11 @@ All prices are in USD. Sales tax is calculated at 8.25%. The table includes 2 ex
 | | | | | | | | | | | | | | | | | |
 | Comment | | | | | | | Optional | | | Optional | Optional | | | | | |
 
-## Images
+## Gallery
 
-![pcb_design](Images/pcbnew_2024-10-07_12-25-15.png)![pcb_design](Images/pcbnew_2024-10-07_12-25-18.png)
+![pcb_design](Images/mobo_0.png)![pcb_design](Images/mobo_1.png)
 
-![pcb_design](Images/pcbnew_2024-10-07_12-25-07.png)![pcb_design](Images/pcbnew_2024-10-07_12-25-12.png)
+![pcb_design](Images/mobo_2.png)![pcb_design](Images/mobo_3.png)
 
 ![pcb_design](Images/pcbnew_2024-10-07_12-21-47.png)![pcb_design](Images/pcbnew_2024-10-07_12-21-49.png)
 
