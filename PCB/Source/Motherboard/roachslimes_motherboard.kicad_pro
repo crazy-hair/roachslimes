@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "slimevr_motherboard_test_3.kicad_pro",
+    "filename": "roachslimes_motherboard.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -502,9 +502,9 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "slimevr_mobo_final.step",
+      "step": "slimevr_mobo_final_1.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "Render/roachslimes_motherboard_1.wrl"
     },
     "page_layout_descr_file": ""
   },

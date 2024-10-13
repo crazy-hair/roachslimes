@@ -51,6 +51,8 @@ All prices are in USD. Sales tax is calculated at 8.25%. The table includes 2 ex
 
 ## Gallery
 
+![pcb_design](Images/mobo_front_small.png)![pcb_design](Images/mobo_back_small.png)
+
 ![pcb_design](Images/mobo_0.png)![pcb_design](Images/mobo_1.png)
 
 ![pcb_design](Images/mobo_2.png)![pcb_design](Images/mobo_3.png)
@@ -61,7 +63,7 @@ All prices are in USD. Sales tax is calculated at 8.25%. The table includes 2 ex
 
 ## Credits
 
-List of models used in the animation:
+List of models used:
 
 | Model | Credit |
 |--|--:|
