@@ -7,6 +7,5 @@ _autosave-*
 ~$*.xlsx
 *.pcb3d
 *.blend*
-*.stl
 *.round-tracks-config
 render/

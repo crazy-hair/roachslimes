@@ -1550,7 +1550,6 @@
 			)
 		)
 		(model "${KICAD_3RD_PARTY}/Custom.3dshapes/wemos d1 mini V4.STEP"
-			(hide yes)
 			(offset
 				(xyz 11.44 -17.15 7.95)
 			)
@@ -1562,6 +1561,7 @@
 			)
 		)
 		(model "${KICAD_3RD_PARTY}/Custom.3dshapes/d1_mini_v4.x3d"
+			(hide yes)
 			(offset
 				(xyz 11.44 -8.9 0)
 			)
@@ -2146,7 +2146,6 @@
 			)
 		)
 		(model "${KICAD_3RD_PARTY}/Custom.3dshapes/03962A (HW107) Lithium Battery Charging Module.STEP"
-			(hide yes)
 			(offset
 				(xyz 0 -8.75 0)
 			)
@@ -2230,6 +2229,7 @@
 			)
 		)
 		(model "${KICAD_3RD_PARTY}/Custom.3dshapes/tp-4056.x3d"
+			(hide yes)
 			(offset
 				(xyz 13.45 -8.75 0)
 			)
@@ -3852,6 +3852,7 @@
 			)
 		)
 		(model "${KICAD_3RD_PARTY}/Custom.3dshapes/bmi160.x3d"
+			(hide yes)
 			(offset
 				(xyz 6.5 -9 3.535)
 			)
@@ -3860,6 +3861,17 @@
 			)
 			(rotate
 				(xyz 90 0 90)
+			)
+		)
+		(model "${KICAD_3RD_PARTY}/Custom.3dshapes/bmi270.step"
+			(offset
+				(xyz 6.5 -9 3.535)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 180 0 -90)
 			)
 		)
 	)
@@ -4318,7 +4330,6 @@
 			)
 		)
 		(model "${KICAD_3RD_PARTY}/Custom.3dshapes/GY-271 HMC5883L Triple 3 Axis Digital Compass.step"
-			(hide yes)
 			(offset
 				(xyz 7.8 -6.5 3.8)
 			)
@@ -4330,6 +4341,7 @@
 			)
 		)
 		(model "${KICAD_3RD_PARTY}/Custom.3dshapes/GY-271.x3d"
+			(hide yes)
 			(offset
 				(xyz 7.25 -6.5 2.5)
 			)

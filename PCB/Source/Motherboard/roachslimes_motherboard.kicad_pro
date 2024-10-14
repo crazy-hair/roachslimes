@@ -502,7 +502,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "slimevr_mobo_final_1.step",
+      "step": "Render/slimevr_mobo_final_cad.step",
       "svg": "",
       "vrml": "Render/roachslimes_motherboard_1.wrl"
     },
