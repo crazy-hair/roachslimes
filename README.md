@@ -4,7 +4,7 @@ A utilitarian tracker design for [SlimeVR](https://docs.slimevr.dev/), with the 
 
 ## Disclaimer
 
-The cases for these have yet to be rigorusly tested, and may require further revision.
+The cases for these have yet to be rigorusly tested, and may require further revision. Right now they seem to work just fine - the locking mechanism seems to withstand many cycles of opening and closing.
 
 ## Ordering PCBs
 
