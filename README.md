@@ -1,14 +1,10 @@
 # roachslimes
 
-A utilitarian tracker design for [SlimeVR](https://docs.slimevr.dev/), with the intention of using the cheapest parts available in the smallest formfactor usable.
-
-## Disclaimer
-
-The cases for these have yet to be rigorusly tested, and may require further revision. Right now they seem to work just fine - the locking mechanism seems to withstand many cycles of opening and closing.
+A utilitarian tracker design for [SlimeVR](https://docs.slimevr.dev/), with the intention of using the cheapest parts available in the smallest form factor possible, while maintaining quality and usability.
 
 ## Ordering PCBs
 
-The included gerbers in /PCB/Production/ are exported from KiCad using the recommended settings for [JLCPCB](https://jlcpcb.com). I cannot guarantee that they will work at a different fab. JLCPCB is far and away the most cost effective for low volume PCB orders, coming out to $3.52 for 20 boards before tax if you use their economy shipping option (as of 2024). There are four files, two for each board (one single board, and one panelized). Using the panelized board files is highly recommended, as it allows for More Board Per Board<sup>TM</sup> without additional cost. The default JLCPCB order parameters are good enough for working boards out of the box, but I'd recommend changing the color to yellow [(because it's lemon scented)](https://x.com/MKVRiscy/status/1821870120697987492) and to select "no mark" so you don't have some unique identifier printed on the board somewhere.
+The included gerbers in `/PCB/Production/` are exported from KiCad using the recommended settings for [JLCPCB](https://jlcpcb.com). I cannot guarantee that they will work at a different fab. JLCPCB is far and away the most cost effective for low volume PCB orders, coming out to $3.52 for 20 boards before tax if you use their economy shipping option (as of 2024). There are four files, two for each board (one single board, and one panelized). Using the panelized board files is highly recommended, as it allows for More Board Per Board<sup>TM</sup> without additional cost. The default JLCPCB order parameters are good enough for working boards out of the box, but I'd recommend changing the color to yellow [(because it's lemon scented)](https://x.com/MKVRiscy/status/1821870120697987492) and to select "no mark" so you don't have some unique identifier printed on the board somewhere.
 
 ## Ordering Parts
 
@@ -16,7 +12,7 @@ Links to all required components can be found in the table futher down.
 
 ## Printing Instructions
 
-The 3D files provided require a lot of setup to print properly - modifier shapes that adjust perimeter count and painted on supports. I highly recommend using the `.3mf` file as a basis for your print (there's one `.3mf` for PrusaSlicer and friends and one for OrcaSlicer and friends).
+The print files, STLs, and Fusion source files are included in the `/3D Files/` directory. I highly recommend using the `.3mf` print files as a basis for your print, as there are manually painted supports and custom settings per object (there's one `.3mf` for PrusaSlicer and friends and one for OrcaSlicer and friends).
 
 ## Assembly
 
