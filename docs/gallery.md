@@ -11,6 +11,12 @@ nav_order: 5
 
 <video src="videos/floatybouncy_mobo.mp4" width="1024" height="1024" autoplay loop muted></video>
 
+<video src="videos/floatybouncy_dabo.mp4" width="1024" height="1024" autoplay loop muted></video>
+
+<video src="videos/floatybouncy_mobo_case.mp4" width="1024" height="1024" autoplay loop muted></video>
+
+<video src="videos/floatybouncy_dabo_case.mp4" width="1024" height="1024" autoplay loop muted></video>
+
 ![pcb_design](images/mobo_0.png)
 
 ![pcb_design](images/mobo_1.png)
