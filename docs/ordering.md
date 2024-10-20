@@ -11,7 +11,7 @@ The included gerbers in [`/PCB/Production/`](https://github.com/crazy-hair/roach
 
 Links to all required components can be found in the headers of the table. 
 
-A fully parametric breakdown that allows for adjusting tax, quantity, and more can be found in BOM.xlsx or [here](https://docs.google.com/spreadsheets/d/1RTwIJsGUY1e1f047yFT5OwqJSmgT3SN4hO7gHYImR_g/copy) (if you want to modify it, you'll have to make a copy first).
+A fully parametric breakdown that allows for adjusting tax, quantity, and more can be found in the Excel file [BOM.xlsx](https://github.com/crazy-hair/roachslimes/blob/main/BOM.xlsx) or [the Google Sheets page](https://docs.google.com/spreadsheets/d/1RTwIJsGUY1e1f047yFT5OwqJSmgT3SN4hO7gHYImR_g/copy) (if you want to modify it, you'll have to make a copy first).
 
 All prices are in USD. Sales tax is calculated at 8.25%. The table is based on a full set of trackers and includes 2 extra D1s, BMIs, and QMCs to account for possible DOA parts or accidents during assembly. Note that the LED and associated 620Ω resistor, as well as the pogo pins are not necessary for core tracker operation, as specified in the comment row.
 

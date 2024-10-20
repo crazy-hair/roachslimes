@@ -9,4 +9,4 @@ A utilitarian tracker design for [SlimeVR](https://docs.slimevr.dev/), with the 
 
 Check out the sidebar for more information on building them yourself!
 
-<video src="videos/floatybouncy_mobo.mp4" width="256" height="256" autoplay loop muted></video>
+<video src="videos/floatybouncy_mobo.mp4" width="256" height="256" autoplay loop muted></video> <video src="videos/floatybouncy_dabo.mp4" width="256" height="256" autoplay loop muted></video>
