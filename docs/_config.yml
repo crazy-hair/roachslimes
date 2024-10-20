@@ -5,6 +5,11 @@ color_scheme: dark
 
 nav_enabled: true
 
+aux_links:
+  roachslimes on GitHub:
+    - https://github.com/crazy-hair/roachslimes
+
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
