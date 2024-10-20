@@ -1,9 +1,6 @@
-# In _config.yml
-# theme: minima
-remote_theme: jekyll/minima
+remote_theme: just-the-docs/just-the-docs
 plugins:
-  - jekyll-remote-theme
-minima:
-  skin: dark # or auto if you want it to switch with your system settings.
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+color_scheme: dark
 
-markdown: kramdown 
+nav_enabled: true
