@@ -3,6 +3,8 @@ title: Main Page
 nav_order: 0
 ---
 
+This documentation is a work in progress! If you have any questsions, feel free to send me a message request on discord at `crazy.hair`.
+
 # roachslimes
 
 A utilitarian DIY tracker design for [SlimeVR](https://docs.slimevr.dev/), with the intention of using the cheapest parts available in the smallest form factor possible, while maintaining quality, usability, and ability to be built by hand.
