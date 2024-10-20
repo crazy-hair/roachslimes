@@ -1,5 +1,5 @@
 ---
-title: Sourcing and Ordering Parts
+title: 3D Printing Instructions
 nav_order: 2
 ---
 
