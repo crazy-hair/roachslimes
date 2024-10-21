@@ -3,7 +3,7 @@ title: Main Page
 nav_order: 0
 ---
 
-This documentation is a work in progress! If you have any questsions, feel free to send me a message request on discord at `crazy.hair`.
+This documentation is a work in progress! If you have any questions, feel free to send me a message request on discord at `crazy.hair`.
 
 # roachslimes
 
