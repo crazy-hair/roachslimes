@@ -12,8 +12,8 @@ A utilitarian DIY tracker design for [SlimeVR](https://docs.slimevr.dev/), with 
 Check out the sidebar for more information on building them yourself!
 
 
-<iframe src="rendering/mobo.html" style="border:0px #ffffff none;" name="mobo_viewer" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="300px" allowfullscreen></iframe>
-<iframe src="rendering/dabo.html" style="border:0px #ffffff none;" name="mobo_viewer" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="300px" allowfullscreen></iframe>
+<iframe src="rendering/mobo.html" style="border:0px #ffffff none;" name="mobo_viewer" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="350px" allowfullscreen></iframe>
+<iframe src="rendering/dabo.html" style="border:0px #ffffff none;" name="mobo_viewer" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="350px" allowfullscreen></iframe>
 
 <video src="videos/floatybouncy_mobo.mp4" width="300" autoplay loop muted></video> <video src="videos/floatybouncy_dabo.mp4" width="300" autoplay loop muted></video>
 
