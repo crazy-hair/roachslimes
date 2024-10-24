@@ -1,5 +1,7 @@
 # roachslimes
 
+This document is no longer being updated and will only be corrected on major updates! For full documentation please check out [The Docs](https://crazy-hair.github.io/roachslimes/)
+
 A utilitarian tracker design for [SlimeVR](https://docs.slimevr.dev/), with the intention of using the cheapest parts available in the smallest form factor possible, while maintaining quality and usability.
 
 ## Ordering PCBs
@@ -17,8 +19,6 @@ The print files, STLs, and Fusion source files are included in the `/3D Files/` 
 ## Assembly
 
 This board is designed to be compact, which means I had to make some unconventional choices during assembly. The D1 Mini and TP-4056 Boards are mounted to the surface of the PCB, while the BMI and QMC are mounted on headers on the opposite side. For assembly, this means you have to solder the headers on first, then use flush cutters or snips to cut the header pins sticking out of the front of the board down to be flush so you can solder on the boards on the onto the front. There's also a pogo pin header for a future modular charging dock which would allow for charging multiple trackers at once, and a slot for an LED and associated resistor which was added for debugging but can be used to identify trackers if you choose to use different colored LEDs per tracker. The cases are completely toolless and are friction/retention fit. Refer to the animation below for an assembly reference.
-
-![assembly_animation](docs/images/speen1.gif)
 
 ## Firmware
 
