@@ -10,12 +10,12 @@ model-viewer {
 </head>
 <body>
 <script type="module" src="model-viewer.min.js"></script>
-<model-viewer id="mobo" loading="eager" camera-controls touch-action="pan-y" environment-image="ninomaru_teien_1k.jpg" interaction-prompt="none" rotation-per-second="20deg"
+<model-viewer id="mobo" loading="eager" camera-controls touch-action="pan-y" environment-image="ninomaru_teien_1k.jpg" interaction-prompt="none" rotation-per-second="20deg" camera-orbit="30deg 75deg 1200cm" max-camera-orbit="Infinity 180deg 1200cm"
 auto-rotate tone-mapping="aces"
 src="roachslimes_motherboard_IOR.glb" shadow-intensity="1" alt="3D model of the motherboard"></model-viewer> 
 <script>
     const model = document.getElementById("mobo");
-    model.orientation = "0deg 90deg -30deg";
+    model.orientation = "0deg 90deg 0deg";
 </script>
 </body>
 </html>
