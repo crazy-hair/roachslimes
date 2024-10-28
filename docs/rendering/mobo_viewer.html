@@ -1,10 +1,16 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <title></title>
-    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
+<style>
+model-viewer {
+  width: 100%;
+  height: 100%;
+}
+</style>
 </head>
 <body>
-        <model-viewer camera-controls touch-action="pan-y" src="roachslimes_motherboard_IOR.glb" alt="A 3D model of an astronaut"></model-viewer>
+<script type="module" src="model-viewer.min.js"></script>
+<model-viewer id="reveal" loading="eager" camera-controls touch-action="pan-y"
+auto-rotate poster="Image20231228195240.png" tone-mapping="aces"
+src="rendering/roachslimes_motherboard_IOR.glb" shadow-intensity="1" alt="A 3D model of a shishkebab"></model-viewer> 
 </body>
 </html>
