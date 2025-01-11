@@ -17,4 +17,4 @@ Check out the sidebar for more information on building them yourself!
 
 <video src="videos/floatybouncy_mobo.mp4" width="365" autoplay loop muted></video> <video src="videos/floatybouncy_dabo.mp4" width="365" autoplay loop muted></video>
 
-<video src="videos/floatybouncy_mobo_case.mp4" width="365" autoplay loop muted></video> <video src="videos/floatybouncy_dabo_case.mp4" width="365" autoplay loop muted></video>
+<video style="max-width: 50%; width:50%" src="videos/floatybouncy_mobo_case.mp4" autoplay loop muted></video> <video src="videos/floatybouncy_dabo_case.mp4" style="max-width: 50%; width:50%" autoplay loop muted></video>
