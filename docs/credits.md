@@ -5,9 +5,11 @@ nav_order: 6
 
 # Credits
 
-All PCB design, CAD, animation and pretty much everything else was done by me.
+All PCB design, CAD, animation, rendering, and pretty much everything else was done by me.
 
 As for all the stuff that I didn't make:
+
+The SlimeVR spec and software were all designed by the [SlimeVR dev team](https://slimevr.dev/). Without them, this project wouldn't exist at all!
 
 List of models used:
 

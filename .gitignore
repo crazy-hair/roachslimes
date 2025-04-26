@@ -10,3 +10,4 @@ _autosave-*
 *.round-tracks-config
 render/
 pinion/
+ignore/
