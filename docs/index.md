@@ -12,9 +12,9 @@ A utilitarian DIY tracker design for [SlimeVR](https://docs.slimevr.dev/), with 
 Check out the sidebar for more information on building them yourself!
 
 
-<iframe src="rendering/mobo_viewer.html" style="border:0px #ffffff none;" name="mobo_viewer" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="350px" allowfullscreen></iframe>
-<iframe src="rendering/dabo_viewer.html" style="border:0px #ffffff none;" name="dabo_viewer" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="350px" allowfullscreen></iframe>
+<iframe src="rendering/mobo_viewer.html" name="mobo_viewer" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" style="width:49%; aspect-ratio:1/1; border-width: 0" allowfullscreen></iframe>
+<iframe src="rendering/dabo_viewer.html" name="dabo_viewer" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" style="width:49%; aspect-ratio:1/1; border-width: 0" allowfullscreen></iframe>
 
-<video src="videos/floatybouncy_mobo.mp4" width="365" autoplay loop muted></video> <video src="videos/floatybouncy_dabo.mp4" width="365" autoplay loop muted></video>
+<video src="videos/floatybouncy_mobo.mp4" style="width:49%" autoplay loop muted></video> <video src="videos/floatybouncy_dabo.mp4" style="width:49%" autoplay loop muted></video>
 
-<video src="videos/floatybouncy_mobo_case.mp4" width="365" autoplay loop muted></video> <video src="videos/floatybouncy_dabo_case.mp4" width="365" autoplay loop muted></video>
+<video style="width:49%" src="videos/floatybouncy_mobo_case.mp4" autoplay loop muted></video> <video src="videos/floatybouncy_dabo_case.mp4" style="width:49%" autoplay loop muted></video>

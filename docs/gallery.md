@@ -9,13 +9,13 @@ nav_order: 5
 
 ![pcb_design](images/mobo_back_small.png)
 
-<video src="videos/floatybouncy_mobo.mp4" width="730" autoplay loop muted></video>
+<video src="videos/floatybouncy_mobo.mp4" style="width:100%" autoplay loop muted></video>
 
-<video src="videos/floatybouncy_dabo.mp4" width="730" autoplay loop muted></video>
+<video src="videos/floatybouncy_dabo.mp4" style="width:100%" autoplay loop muted></video>
 
-<video src="videos/floatybouncy_mobo_case.mp4" width="730" autoplay loop muted></video>
+<video src="videos/floatybouncy_mobo_case.mp4" style="width:100%" autoplay loop muted></video>
 
-<video src="videos/floatybouncy_dabo_case.mp4" width="730" autoplay loop muted></video>
+<video src="videos/floatybouncy_dabo_case.mp4" style="width:100%" autoplay loop muted></video>
 
 ![pcb_design](images/mobo_0.png)
 
