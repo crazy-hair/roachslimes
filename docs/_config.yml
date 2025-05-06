@@ -1,7 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-color_scheme: dark
+color_scheme: wider
 
 nav_enabled: true
 
@@ -39,5 +39,3 @@ search:
   button: false
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: 'k'
-
-color_scheme: wider
