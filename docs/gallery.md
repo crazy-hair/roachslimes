@@ -5,9 +5,13 @@ nav_order: 5
 
 # Gallery
 
+![pcb_design](images/assembled_tracker_small.png)
+
 ![pcb_design](images/mobo_front_small.png)
 
 ![pcb_design](images/mobo_back_small.png)
+
+![pcb_design](images/dabo_top_small.png)
 
 <video src="videos/floatybouncy_mobo.mp4" style="width:100%" autoplay loop muted></video>
 
