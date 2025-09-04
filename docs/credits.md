@@ -1,5 +1,5 @@
 ---
-title: Credits | roachslimes
+title: Credits
 nav_order: 6
 ---
 

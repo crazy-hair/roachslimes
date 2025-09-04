@@ -1,5 +1,5 @@
 ---
-title: Sourcing and Ordering Parts | roachslimes
+title: Sourcing and Ordering Parts
 nav_order: 1
 ---
 

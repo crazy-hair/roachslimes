@@ -1,5 +1,5 @@
 ---
-title: Main Page | roachslimes
+title: Main Page
 nav_order: 0
 ---
 

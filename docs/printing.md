@@ -1,5 +1,5 @@
 ---
-title: 3D Printing Instructions | roachslimes
+title: 3D Printing Instructions
 nav_order: 2
 ---
 

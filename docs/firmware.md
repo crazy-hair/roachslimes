@@ -1,5 +1,5 @@
 ---
-title: Firmware Setup | roachslimes
+title: Firmware Setup
 nav_order: 4
 ---
 

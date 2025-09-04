@@ -1,5 +1,5 @@
 ---
-title: Assembly | roachslimes
+title: Assembly
 nav_order: 3
 ---
 
